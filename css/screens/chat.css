@@ -61,13 +61,13 @@
 }
 
 .message-with {
-  animation: messagerowownfadeIn 2s linear forwards;
-  animation-delay: 1s;
+  animation: messagerowownfadeIn 0.5s linear forwards;
+  animation-delay: 0.8s;
 }
 
 .message-row--own {
-  animation: messagerowfadeIn 2s linear forwards;
-  animation-delay: 3s;
+  animation: messagerowfadeIn 0.5s linear forwards;
+  animation-delay: 1.2s;
 }
 
 @keyframes messagerowfadeIn {
